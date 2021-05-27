@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "J7sO1KyawZUL+DtDjC5lg1z7KxO7CboHvrtvHVaXc6YDwJ4DuEA1judgXeucD/vLCgYvXaqD1Iv5xB++yVa0sQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MirkinLAB\\MEGA\\DEV\\2021-05-27-DOTNET_ENTITY_SQL_CHARACHTER_SYSTEM\\dotnet-entity-sql-charachter-system\\dotnet-entity-sql-charachter-system.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MirkinLAB\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\MirkinLAB\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\MirkinLAB\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\MirkinLAB\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\MirkinLAB\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\MirkinLAB\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
